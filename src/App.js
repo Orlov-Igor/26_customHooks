@@ -3,7 +3,7 @@ import { UseLocalStorageExample, UseOnlineStatusExample, UseDocumentTitleExample
 
 function App() {
   return (
-    <UseLocalStorageExample />
+    <UseOnlineStatusExample />
   );
 }
 
